@@ -10,5 +10,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gelo/gelo/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gelo/gelo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gelo/gelo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GeloDevDesign
+/GeloDevDesign
+/output/github-snake.svg" />
 </picture>
