@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Gelo, a Junior Web Developer 👋:
-🛜 check out my [website](https://geloweb.onrender.com)<br>👨‍💻 junior developer who just started my career this June 2025<br>🚀 1 year of freelancing experience<br>💡 passionate about creating modern web applications
+🛜 check out my [website](https://geloweb.onrender.com)<br>👨‍💻 junior developer who just started my career this June 2025<br>🚀 1 year of freelancing experience<br>💡 passionate about creating modern web applications<br>💼 connect with me on [LinkedIn](https://linkedin.com/in/angelo-serenuela)<br>🎥 follow me on [TikTok](https://tiktok.com/@geloweb.dev) for tech content
 
 
 # 💻 Tech Stack:
